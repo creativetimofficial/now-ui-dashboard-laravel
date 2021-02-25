@@ -428,9 +428,8 @@ We use GitHub Issues as the official bug tracker for the now-ui Dashboard Larave
 
 ## Licensing
 
-- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=ndl-readme)
-- [Creative Tim License](https://www.creative-tim.com/license?ref=ndl-readme).
-
+- Copyright Creative Tim (https://www.creative-tim.com/?ref=ndl-readme)
+- Licensed under MIT (https://github.com/laravel-frontend-presets/now-ui-dashboard/blob/master/license.md)
 
 ## Useful Links
 
